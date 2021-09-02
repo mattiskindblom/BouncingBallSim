@@ -1,4 +1,4 @@
-package BouncingBallSim;
+package bouncingballsim;
 
 
 
@@ -7,10 +7,8 @@ public class Main {
     public static void main(String[] args) {
 
         int ball = 4;
-        double ballacceleration = 9.8;
-
-
-        System.currentTimeMillis();
-
+        double a = 9.82;
+        
+        
     }
 }
