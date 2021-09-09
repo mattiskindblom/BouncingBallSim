@@ -8,8 +8,8 @@ import java.awt.Color;
 public class Ball extends JPanel{
     int x=0;
     int y=0;
-    int x_velocity=10;
-    int y_velocity=10;
+    int x_velocity=0;
+    int y_velocity=5;
     double gravity= 9.82;
     Color rand=Color.blue;
     Boolean is_moving_down=true;
